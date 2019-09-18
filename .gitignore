@@ -2,3 +2,5 @@
 *.jugdata/
 /.tmp/
 /logs/
+/data_*/
+/val_*/
