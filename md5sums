@@ -6,3 +6,5 @@
 53ca1c756c3d1e7809517cc47c5561c5  256/train_256_places365standard.tar
 e27b17d8d44f4af9a78502beb927f808  256/val_256.tar
 f532f6ad7b582262a2ec8009075e186b  256/test_256.tar
+ee2dd54bc5f58a52dbae84bd898f937e  easyformat/places365standard_easyformat.tar
+681cc56f41f33be4abd9ef19ecb2fb27  lmdb/lmdb_places365standard.tar
