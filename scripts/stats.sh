@@ -29,3 +29,5 @@ done
 
 rm -f disk_usage.stats
 du -s "$@" > disk_usage.stats
+
+chmod -R a-w "$@"
